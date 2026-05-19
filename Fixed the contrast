@@ -1,0 +1,7 @@
+style>
+        :root {
+            --accent: #c5a059;
+            --muted: #5c5c66;
+            --bg: #ffffff;
+        }
+        
