@@ -1,0 +1,15 @@
+ <div class="grid" id="catalog">
+        <div class="product-card">
+            <img src="https://images.unsplash.com/photo-1539109132382-381bb3f1c2b5?auto=format&fit=crop&w=400&q=80" alt="Black luxury trench coat">
+            <div class="product-info">
+                <span>Midnight Trench</span><br>
+                <span class="price">$890.00</span>
+            </div>
+        </div>
+        <div class="product-card">
+            <img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=400&q=80" alt="Ivory pleated trousers">
+            <div class="product-info">
+                <span>Ivory Pleated Trouser</span><br>
+                <span class="price">$450.00</span>
+            </div>
+        </div>
