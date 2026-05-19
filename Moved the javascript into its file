@@ -1,0 +1,2 @@
+function openMod(id) { document.getElementById('mod-'+id).style.display = 'flex'; }
+function cls() { document.querySelectorAll('.modal-overlay').forEach(m => m.style.display = 'none'); }
