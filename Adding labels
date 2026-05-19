@@ -1,0 +1,16 @@
+<div style="margin-bottom: 1rem;">
+                <label>
+                    <input type="checkbox" style="width: auto;">
+                    Remember this device
+                </label>
+            </div>
+
+
+
+
+<div style="border-top: 1px solid #eeeeee; padding: 20px 0;">
+                <p style="color: var(--muted);">Your bag is currently empty.</p>
+                <p>Express Checkout:</p>
+                <label for="promo-code">Gift Card or Promo Code</label>
+                <input type="text" id="promo-code" placeholder="Gift Card or Promo Code">
+            </div>
