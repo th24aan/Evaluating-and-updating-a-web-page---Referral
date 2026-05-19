@@ -1,0 +1,7 @@
+ <div class="product-card">
+            <button aria-label="Request custom clothing order" style="width:100%; height:400px; background:#f9f9f9; border:none; cursor:pointer;">
+                <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#a1a1aa"><path d="M12 5v14M5 12h14"/></svg>
+            </button>
+            <div class="product-info">
+                <span>Request Custom Order</span>
+            </div>
