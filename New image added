@@ -1,0 +1,7 @@
+ <div class="grid" id="catalog">
+        <div class="product-card">
+            <img src="AK5358s.webp" alt="Black luxury trench coat">
+            <div class="product-info">
+                <span>Midnight Trench</span><br>
+                <span class="price">$890.00</span>
+            </div>
